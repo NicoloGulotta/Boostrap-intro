@@ -1,0 +1,10 @@
+body{
+    background-color: dimgray;
+}
+.card {
+    background-color: rgb(220, 214, 211);
+}
+
+.fa-solid fa-magnifying-glass {
+    color: white;
+}
